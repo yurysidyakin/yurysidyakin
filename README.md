@@ -13,27 +13,27 @@
 </div>
 
 <!-- Остальные иконки теперь будут выводиться под каждым описанием -->
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     HTML5
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     JavaScript
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     React
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     Redux
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 50px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     TypeScript
 </div>
