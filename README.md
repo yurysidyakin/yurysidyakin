@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<p display="flex">
+<p display="flex" align-items="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> Semantics, Validation, Accessibility
 </p>
  
