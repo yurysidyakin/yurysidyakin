@@ -3,7 +3,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left"> 
+<p align="left"> 
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  _Semantics_, _Validation_, _Accessibility_
  
@@ -17,4 +17,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 
-</div>
+</p>
