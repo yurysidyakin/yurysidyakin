@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Исправление: вместо тега <p> используем <div> для гибкости верстки -->
-<div style="display: flex; align-items: center; gap: 10px;"> 
+<div style="display: flex; align-items: center; gap: 50px;"> 
     <!-- Убрал лишний вложенный <p> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     CSS3: Semantics, Validation, Accessibility
