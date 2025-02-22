@@ -54,4 +54,6 @@
   
 - **Telegram:** [@yurysidyakin](https://t.me/yurysidyakin)
 
-- **Portfolio:** 
+- **Portfolio:**
+  
+- **CV:** 
