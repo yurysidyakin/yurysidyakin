@@ -5,6 +5,8 @@
 
 ## 🛠️ Hard skills
 
+### Front-end 
+
 |                                                        Tools                                             |                   |  Description                                                                        |
 |----------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------|
 | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)     | CSS3              | Модульная организация стилей и инкапсуляция компонентов                             |
@@ -14,9 +16,24 @@
 | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)            | Redux             | Управление глобальным состоянием приложения                                         |
 | ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  | TypeScript        | Типизация для улучшения масштабируемости и надежности проектов                      |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg)                | Vite              | Настройка сборочных процессов и оптимизация загрузки ресурсов                       |
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg)          | Docker            | Контейнеризация приложений для упрощенного деплоя                                   |
+
+### Back-end 
+
+|                                                        Tools                                             |                   |  Description                                                                        |
+|----------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)       | Node.js           |Разработка серверной части приложений с использованием JavaScript                    |
+| ![ ](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)       | PostgreSQL        | Опыт работы с реляционными базами данных                                            |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg)            | Insomnia          | Тестирование API и взаимодействие с бэкендом                                        |
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg)       | Git               | Ведение версий проекта по методологии Git flow и работа в команде                   |
+
+### DevOps
+
+|                                                        Tools                                             |                   |  Description                                                                        |
+|----------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------|
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)                      | Git               | Ведение версий проекта по методологии Git flow и работа в команде                   |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg)  | CI/CD             | (GitHub Actions) Автоматизация развертывания и тестирования                         |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg)          | Docker            | Контейнеризация приложений для упрощенного деплоя                                   |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)        | Kubernetes        | Оркестрация контейнеризированных приложений                                         |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg)              | Ansible           | Инфраструктура кода автоматизация конфигураций                                      |
 
 ## 🧠 Soft Skills
 
