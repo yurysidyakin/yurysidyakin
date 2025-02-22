@@ -24,12 +24,14 @@
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg)       | Node.js           |Разработка серверной части приложений с использованием JavaScript                    |
 | ![ ](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)       | PostgreSQL        | Опыт работы с реляционными базами данных                                            |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg)            | Insomnia          | Тестирование API и взаимодействие с бэкендом                                        |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg)                 | GraphQL           | Альтернатива REST для построения гибких и эффективных API                           |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg)                | Prisma            | ORM для безопасного доступа к базам данных в приложениях                            |
 
 ### DevOps
 
 |                                                        Tools                                             |                   |  Description                                                                        |
 |----------------------------------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------|
-| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)                      | Git               | Ведение версий проекта по методологии Git flow и работа в команде                   |
+| ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)                      | Git/GitHub/GitLab | Ведение версий проекта по методологии Git flow и работа в команде                   |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg)  | CI/CD             | (GitHub Actions) Автоматизация развертывания и тестирования                         |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg)          | Docker            | Контейнеризация приложений для упрощенного деплоя                                   |
 | ![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)        | Kubernetes        | Оркестрация контейнеризированных приложений                                         |
@@ -50,6 +52,6 @@
 
 - **Email:** yurysidyakin.dev@yandex.ru
   
-- **Telegram:** @yurysidyakin
+- **Telegram:** [@yurysidyakin](https://t.me/yurysidyakin)
 
 - **Portfolio:** 
